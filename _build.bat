@@ -1,0 +1,1 @@
+call _make_srec.bat && _apply_srec_jp.bat && _fixcrc.bat

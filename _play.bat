@@ -1,0 +1,1 @@
+OUTPUT\mametiny.exe genesisplus -cart "OUTPUT\out.md" -cdrom "OUTPUT\cdrom.cue" -debug
